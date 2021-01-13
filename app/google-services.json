@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485348702196",
+    "firebase_url": "https://bookself2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bookself2",
+    "storage_bucket": "bookself2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485348702196:android:92dd060949bf728a932ba1",
+        "android_client_info": {
+          "package_name": "com.example.bookself_main_deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485348702196-b1a9ane1tn78oh2u0s0vq24ve8cm1f4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookself_main_deneme",
+            "certificate_hash": "0e7c663b7ecb0ed4ae90711bd0366ffb35dcc7d7"
+          }
+        },
+        {
+          "client_id": "485348702196-9kmg8kak9p3q7h45csb2em0qpoh9qque.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzo5z_gtmCLK2QX1_OxRumiefAxBRKTeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485348702196-9kmg8kak9p3q7h45csb2em0qpoh9qque.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
