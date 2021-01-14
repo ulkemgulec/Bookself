@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class OtherProfile extends AppCompatActivity {
@@ -17,6 +18,9 @@ public class OtherProfile extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_other_profile);
+
+        ActionBar actionBar = getSupportActionBar();
+        actionBar.setTitle("Other Profile");
 
         button_sendMessage = findViewById(R.id.button_sendMessage);
 

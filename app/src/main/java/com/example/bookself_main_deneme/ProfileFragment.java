@@ -94,7 +94,7 @@ public class ProfileFragment extends Fragment {
                         Picasso.get().load(image).into(imageAvatar);
                     }
                     catch (Exception e){
-                        Picasso.get().load(R.drawable.h2).into(imageAvatar);
+                        Picasso.get().load(R.drawable.avatar).into(imageAvatar);
                     }
 
                 }

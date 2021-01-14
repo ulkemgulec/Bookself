@@ -75,7 +75,7 @@
     <TextView
         android:lineSpacingExtra="8sp"
         android:textColor="@color/black"
-        android:id="@+id/details_desc"
+        android:id="@+id/item_book_req"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"

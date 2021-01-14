@@ -53,7 +53,7 @@ public class DashboardActivity extends AppCompatActivity implements BottomNaviga
             case R.id.nav_home:
                 selectedFragment = new HomeFragment();
                 ActionBar actionBar1 = getSupportActionBar();
-                actionBar1.setTitle("Deneme");
+                actionBar1.setTitle("Books");
                 break;
             case R.id.nav_profile:
                 selectedFragment = new ProfileFragment();

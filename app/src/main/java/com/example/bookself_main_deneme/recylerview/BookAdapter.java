@@ -45,14 +45,14 @@ public class BookAdapter extends  RecyclerView.Adapter<BookAdapter.MyHolder>{
         String bookName = bookList.get(position).getBookName();
         String bookGenre = bookList.get(position).getBookGenre();
         String bookAuthor = bookList.get(position).getBookAuthor();
-        String bookImage = bookList.get(position).getBookAuthor();
+        String bookImage = bookList.get(position).getBookImg();
 
         holder.pbookName.setText(bookName);
         holder.pbookGenre.setText(bookGenre);
         holder.pbookAuthor.setText(bookAuthor);
 
         try{
-            Picasso.get().load(bookImage).placeholder(R.drawable.l2).into(holder.pbookImage);
+            Picasso.get().load(bookImage).placeholder(R.drawable.l1).into(holder.pbookImage);
         }catch (Exception e){
 
         }
@@ -93,6 +93,7 @@ public class BookAdapter extends  RecyclerView.Adapter<BookAdapter.MyHolder>{
             pbookName = itemView.findViewById(R.id.item_book_title);
             pbookAuthor = itemView.findViewById(R.id.item_book_author);
             pbookGenre = itemView.findViewById(R.id.item_book_genre);
+
         }
     }
 }

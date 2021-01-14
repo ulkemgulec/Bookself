@@ -24,7 +24,9 @@
         <activity android:name=".AddBookActivity" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".DashboardActivity" />
-        <activity android:name=".MainLoginActivity">
+        <activity android:name=".MainLoginActivity"
+
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

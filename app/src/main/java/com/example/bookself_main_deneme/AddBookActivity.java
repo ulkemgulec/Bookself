@@ -112,7 +112,6 @@ public class AddBookActivity extends AppCompatActivity {
         add_bookGenre = findViewById(R.id.add_bookGenre);
         add_bookAuthor = findViewById(R.id.add_bookAuthor);
         add_bookRequest = findViewById(R.id.add_bookRequest);
-
         add_bookPhotos = findViewById(R.id.add_bookPhotos);
 
 
