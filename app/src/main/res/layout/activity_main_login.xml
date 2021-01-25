@@ -19,7 +19,7 @@
         android:layout_marginRight="100dp"
         android:text="BOOKSELF"
         android:textColor="@color/black"
-        android:textSize="40sp"
+        android:textSize="35sp"
         android:gravity="center"
         android:foregroundGravity="center"
         app:layout_constraintTop_toTopOf="parent"
