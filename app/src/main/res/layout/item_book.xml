@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="175dp">
 
+    <!-- Emre Ertürk -->
 
     <ImageView
         android:id="@+id/cont"

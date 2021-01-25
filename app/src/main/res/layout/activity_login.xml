@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".LoginActivity">
 
-
+    <!-- Ülkem Güleç -->
     <TextView
         android:id="@+id/text_bookself"
         android:layout_width="wrap_content"

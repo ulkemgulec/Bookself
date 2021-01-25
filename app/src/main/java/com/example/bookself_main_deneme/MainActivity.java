@@ -1,3 +1,6 @@
+//Ülkem Güleç
+//Emre Ertürk
+
 package com.example.bookself_main_deneme;
 
 import androidx.appcompat.app.AppCompatActivity;

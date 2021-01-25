@@ -9,6 +9,7 @@
     android:orientation="vertical"
     >
 
+    <!-- Emre Ertürk || Ülkem Güleç -->
 
     <TextView
         android:id="@+id/text_title"

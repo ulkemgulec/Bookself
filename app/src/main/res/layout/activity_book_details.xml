@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".BookDetailsActivity">
 
-
+    <!-- Emre Ertürk -->
     <ImageView
         android:transitionName="containerTN"
         android:id="@+id/container"

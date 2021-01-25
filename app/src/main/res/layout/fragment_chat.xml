@@ -5,6 +5,8 @@
     android:layout_height="match_parent"
     tools:context=".ChatFragment">
 
+    <!-- Emre Ertürk -->
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/chat_recylerView"
         android:layout_width="match_parent"

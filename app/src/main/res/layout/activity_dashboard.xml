@@ -8,6 +8,9 @@
     android:orientation="vertical"
     tools:context=".DashboardActivity">
 
+
+    <!-- Emre Ertürk -->
+
     <FrameLayout
         android:id="@+id/content"
         android:layout_width="match_parent"

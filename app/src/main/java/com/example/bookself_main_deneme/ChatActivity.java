@@ -1,3 +1,6 @@
+
+//Ülkem Güleç
+
 package com.example.bookself_main_deneme;
 
 import android.os.Bundle;
@@ -35,11 +38,6 @@ public class ChatActivity extends AppCompatActivity {
         chatName = findViewById(R.id.chatName);
         messageEt = findViewById(R.id.messageEt);
         sendBtn = findViewById(R.id.sendBtn);
-
-
-
-
-
 
 
     }

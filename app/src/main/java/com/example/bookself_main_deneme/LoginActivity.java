@@ -1,3 +1,6 @@
+
+//Ülkem Güleç
+
 package com.example.bookself_main_deneme;
 
 import androidx.annotation.NonNull;
@@ -124,19 +127,6 @@ public class LoginActivity extends AppCompatActivity {
                 });
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     @Override

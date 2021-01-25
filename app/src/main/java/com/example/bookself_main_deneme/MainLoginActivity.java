@@ -1,3 +1,9 @@
+//Authors
+//Emre Ertürk 170709007
+//Ülkem Güleç 170709035
+
+
+
 package com.example.bookself_main_deneme;
 
 import androidx.appcompat.app.AppCompatActivity;

@@ -1,3 +1,6 @@
+
+//Emre Ertürk
+
 package com.example.bookself_main_deneme;
 
 import android.os.Bundle;

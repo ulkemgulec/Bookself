@@ -1,3 +1,6 @@
+
+//Ülkem Güleç
+
 package com.example.bookself_main_deneme.adapters;
 
 import android.content.Context;
